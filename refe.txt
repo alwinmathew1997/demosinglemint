@@ -1,0 +1,2 @@
+ssh root@50.116.43.10
+NFTMintTester123$$$
