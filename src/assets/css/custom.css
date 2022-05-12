@@ -10513,7 +10513,7 @@ a:hover, a:focus {
 
 /*header*/
 .banner-bg {
-  background-image: url("../img/banner.jpeg");
+  /* background-image: url("../img/banner.jpeg"); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
